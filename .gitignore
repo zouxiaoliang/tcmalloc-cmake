@@ -1,0 +1,9 @@
+CMakeLists.txt.user*
+/cmake-build-debug
+/.sync
+/.idea
+/Icon
+abseil-cpp-*
+googletest-*
+benchmark-*
+.DS_Store
