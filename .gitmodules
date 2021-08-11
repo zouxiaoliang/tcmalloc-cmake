@@ -1,0 +1,3 @@
+[submodule "tcmalloc"]
+	path = tcmalloc
+	url = https://github.com/google/tcmalloc.git
